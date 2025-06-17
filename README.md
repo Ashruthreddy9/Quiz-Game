@@ -1,2 +1,3 @@
-# Quiz-Game
-An interactive multiple-choice Quiz Game built using Python and Tkinter.
+# Quiz Game 🧠
+
+A Python-based GUI quiz game built using Tkinter. It supports multiple categories, a countdown timer, score tracking, and answer reviews.
